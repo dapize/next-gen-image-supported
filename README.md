@@ -1,5 +1,5 @@
 # Next-gen Image supported
-Es un pequeño script que verifica que formato de imagen de proxima generación soporta nuestro navegador: Webp, JP2 o JPX.
+Es un pequeño script que verifica que formato de imagen de proxima generación soporta nuestro navegador: Webp, JP2 o JPX. Aquí un [DEMO](https://dapize.github.io/next-gen-image-supported-checker/)
 
 
 # Instalación
