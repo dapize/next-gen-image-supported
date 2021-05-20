@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Next-gen Image Supported</title>
+</head>
+<body>
+  <h2>Abre la consola (presionando F12), actualiza esta página (con F5) y verás la impresión de un objeto con los formatos de imagen de proxima generación que soporta este navegador.</h2>
+  <script src="script.js"></script>
+  <script>
+    window.nextGenImagesSupported( function (obj) {
+      console.log( 'Next-gen Image Supported: ');
+      console.log( obj )
+    })
+  </script>
+</body>
+</html>
